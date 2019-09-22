@@ -1,4 +1,4 @@
-application: swxkindlebook
+application: swxkindlerss
 version: 1
 module: worker
 runtime: python27
